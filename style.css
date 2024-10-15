@@ -21,7 +21,6 @@ header {
   padding: 60px;
 }
 img {
-  height: fit-content;
   max-width: 100%;
   justify-content: center;
   padding: 10%;
